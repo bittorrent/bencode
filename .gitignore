@@ -1,0 +1,12 @@
+dist
+.settings
+*~
+*.diff
+*.patch
+build/
+.DS_Store
+*.pyc
+*.egg-info
+.#*
+packages/
+*.svn/
